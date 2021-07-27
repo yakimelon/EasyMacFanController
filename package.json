@@ -1,6 +1,6 @@
 {
   "name": "ezf",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Easy Mac Fan Control.",
   "bin": {
     "ezf": "bin/ezf.js"
@@ -8,6 +8,10 @@
   "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yakimelon/EasyMacFanController"
   },
   "author": "yakimelon@ice_arr",
   "license": "MIT",
