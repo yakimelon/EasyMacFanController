@@ -1,0 +1,17 @@
+{
+  "name": "ezf",
+  "version": "0.0.4",
+  "description": "Easy Mac Fan Control.",
+  "bin": {
+    "ezf": "bin/ezf.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yakimelon@ice_arr",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
