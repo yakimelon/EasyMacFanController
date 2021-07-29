@@ -17,6 +17,12 @@ See information about the all fans.
 $ ezf --status
 ```
 
+Maximize all fans speed.
+
+```
+$ ezf --max
+```
+
 Change all fans rotation speed.  
 (Set the speed to less than the "maximum speed" and more than the "minimum speed".)
 

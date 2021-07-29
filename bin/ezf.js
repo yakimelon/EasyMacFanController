@@ -58,7 +58,7 @@ if (argv.max !== undefined || argv.m !== undefined) {
     const fanCount = getFanCount();
     changeAllFansForceMode(fanCount);
 
-    // [fan#0 speed, fan#1 speed...]
+    // e.g. [fan#0 speed, fan#1 speed...]
     const maximumSpeeds = smc('-f')
         .toString()
         .split('\n')
