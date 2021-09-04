@@ -3,6 +3,8 @@
 [EasyMacFanController (EZF)](https://www.npmjs.com/package/ezf) is a command that allows you to control the fan speed of your Mac from the CLI.
 Access to MacBook fans is done through [smcFanControl](https://github.com/hholtmann/smcFanControl), but EZF is a simpler and more elegant way to control MacBook fans.
 
+It is not clear at all which version of the software will work, so please run it at your own risk.
+
 # Features
 
 - All functions are available in the CLI.
